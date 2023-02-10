@@ -1,0 +1,11 @@
+F:\Wafa\Payee\Payee\bin\Debug\Payee.exe.config
+F:\Wafa\Payee\Payee\bin\Debug\Payee.exe
+F:\Wafa\Payee\Payee\bin\Debug\Payee.pdb
+F:\Wafa\Payee\Payee\obj\Debug\Payee.csprojResolveAssemblyReference.cache
+F:\Wafa\Payee\Payee\obj\Debug\Charities_System_Database.FM.AddPayee.resources
+F:\Wafa\Payee\Payee\obj\Debug\Charities_System_Database.FM.EditPayee.resources
+F:\Wafa\Payee\Payee\obj\Debug\Charities_System_Database.Payee.resources
+F:\Wafa\Payee\Payee\obj\Debug\Payee.Properties.Resources.resources
+F:\Wafa\Payee\Payee\obj\Debug\Payee.csproj.GenerateResource.Cache
+F:\Wafa\Payee\Payee\obj\Debug\Payee.exe
+F:\Wafa\Payee\Payee\obj\Debug\Payee.pdb
